@@ -1,0 +1,25 @@
+04/04/22
+day 6
+
+Covering topics today :
+  
+with website reference -https://www.w3schools.com/python/python_intro.asp
+                       -https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python
+                       -https://pynative.com/python-string-exercise/
+                       -https://www.dataquest.io/blog/python-api-tutorial/#:~:text=In%20order%20to%20work%20with,install%20it%20to%20get%20started.
+
+
+Videos reference -  Youtube
+
+1> Api Postman tool Practice.
+    
+2> The four main HTTP methods (GET, PUT, POST, and DELETE) can be mapped to CRUD coverd only Get and Post.
+
+3> Create test cases.
+
+4> Validations and check Response time,body as well as headers using postman .
+
+
+
+
+
